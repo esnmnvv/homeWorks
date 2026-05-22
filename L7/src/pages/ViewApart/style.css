@@ -1,0 +1,15 @@
+.block {
+  width: 800px;
+  height: 500px;
+  border: 1px solid grey;
+  margin: 0 auto;
+}
+h3 {
+  padding-top: 30px;
+}
+p {
+  padding-top: 30px;
+}
+h2 {
+  margin-top: 30px;
+}
