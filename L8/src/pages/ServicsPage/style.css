@@ -1,0 +1,10 @@
+.services-block {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+.service {
+  padding: 30px;
+  width: 200px;
+  border: 2px solid grey;
+}

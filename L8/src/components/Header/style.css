@@ -1,0 +1,19 @@
+.nav-link {
+  width: 500px;
+  padding-top: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 17px;
+  margin: 0 auto;
+  list-style: none;
+  margin-bottom: 40px;
+}
+.nav-link li {
+  padding: 15px;
+  cursor: pointer;
+}
+.active_menu {
+  background-color: blue;
+  border-radius: 22px;
+}
